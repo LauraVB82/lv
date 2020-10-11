@@ -1,0 +1,31 @@
+body {
+  background-color: #f4eeff;
+
+     }
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h1 {
+  color: #424874;
+  background-color: #f4eeff;
+  font-family: "Sofia";
+  font-size: 22px;
+
+}
+h3 {
+  color: #8675a9;
+  font-family: "Sofia";
+  font-size: 22px;
+
+}
+.font-list{
+  color: #8675a9;
+  font-family: "Sofia";
+  font-size: 22px;
+}
